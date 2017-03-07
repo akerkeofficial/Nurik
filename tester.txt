@@ -1,0 +1,23 @@
+Madik the best 
+:x
+:qwi
+:qwr
+total 96
+drwxr-xr-x  18 macbookpro  staff   612 Mar  8 04:48 .
+drwxr-xr-x  10 macbookpro  staff   340 Mar  6 15:19 ..
+-rw-r--r--@  1 macbookpro  staff  6148 Mar  5 16:00 .DS_Store
+drwxr-xr-x  12 macbookpro  staff   408 Mar  8 04:49 .git
+-rw-r--r--   1 macbookpro  staff   118 Feb 20 02:21 .gitignore
+drwxr-xr-x   3 macbookpro  staff   102 Feb 20 02:22 .gradle
+drwxr-xr-x  10 macbookpro  staff   340 Feb 25 15:50 .idea
+-rw-r--r--   1 macbookpro  staff   859 Feb 20 02:23 1work.iml
+drwxr-xr-x  10 macbookpro  staff   340 Mar  5 16:00 app
+drwxr-xr-x   4 macbookpro  staff   136 Feb 20 02:24 build
+-rw-r--r--   1 macbookpro  staff   498 Feb 20 02:21 build.gradle
+drwxr-xr-x   3 macbookpro  staff   102 Feb 20 02:21 gradle
+-rw-r--r--   1 macbookpro  staff   730 Feb 20 02:21 gradle.properties
+-rwxr--r--   1 macbookpro  staff  4971 Feb 20 02:21 gradlew
+-rw-r--r--   1 macbookpro  staff  2404 Feb 20 02:21 gradlew.bat
+-rw-r--r--   1 macbookpro  staff   439 Feb 20 02:21 local.properties
+-rw-r--r--   1 macbookpro  staff    15 Feb 20 02:21 settings.gradle
+-rw-r--r--   1 macbookpro  staff    29 Mar  8 04:51 tester.txt
